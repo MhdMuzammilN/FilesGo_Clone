@@ -1,4 +1,6 @@
 # filesgo_clone
+Not a complete project
+Learning Phase as a beginner
 
 A new Flutter project.
 
